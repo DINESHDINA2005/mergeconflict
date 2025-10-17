@@ -1,1 +1,1 @@
-city: CHENNAI
+CITY : CHENNAI
